@@ -1,0 +1,6 @@
+{
+  "name": "TITANE FORGE",
+  "description": "Esports Management System - High-performance team, tournament, and player management suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
